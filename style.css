@@ -49,7 +49,6 @@ nav img[alt="logo"]{
 }
 
 .navbar li a.main-nav-link{
-    /* margin-left: 5rem; */
     font-size: 1.4rem;
     text-transform: uppercase;
     font-weight: 500;
@@ -160,6 +159,14 @@ nav img[alt="logo"]{
 
     .navbar li{
         margin-top: 4rem;
+    }
+
+    .fa-caret-down{
+        display: none;
+    }
+
+    .dropdown:hover .navbar-sub{
+        display: none;
     }
 }
 
@@ -282,7 +289,7 @@ nav img[alt="logo"]{
     }
 
     .hero-content h1{
-        font-size: 3.7rem;
+        font-size: 3.3rem;
     }
 
     .hero-content p:nth-of-type(2){
