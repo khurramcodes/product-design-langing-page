@@ -1,4 +1,4 @@
-# Product Landing Page
+# Product Design Landing Page
 
 ![name](https://img.shields.io/badge/Khurram-Iqbal-blue)
 
@@ -23,6 +23,3 @@
 ![screenshot](./screenshots/screenshot_3.PNG)
 ![screenshot](./screenshots/screenshot_4.PNG)
 ![screenshot](./screenshots/screenshot_5.PNG)
-![screenshot](./screenshots/screenshot_6.PNG)
-![screenshot](./screenshots/screenshot_7.PNG)
-![screenshot](./screenshots/screenshot_8.PNG)
